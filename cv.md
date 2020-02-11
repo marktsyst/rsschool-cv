@@ -15,3 +15,9 @@ I have been working as programmer since 2007. Started in it department at shipbu
 * Delphi
 * C#
 * Git
+
+### Code examples
+Sorry, my code is under NDA
+
+### Experience
+Worked in IT departments at companies of various types developing enterprise software, databases, workflow automatizaion.
